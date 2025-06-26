@@ -34,7 +34,7 @@ Para rodar os exemplos deste repositório, você precisará ter o **Node.js** e 
 
 4.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/monickecunha/estudos-typescript.git](https://github.com/monickecunha/estudos-typescript.git)
+    git clone https://github.com/monickecunha/estudos-typescript.git
     cd estudos-typescript
     ```
 
